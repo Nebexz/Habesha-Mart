@@ -1,0 +1,95 @@
+@import "@fontsource/poppins";
+.mb-30{
+    margin-bottom: 30px;
+}
+.mb-50{
+    margin-bottom: 50px;
+}
+:root{
+    --color-212529:#212529;
+    --color-1d2547:#1d2547;
+    --color-c2c5db:#C2C5DB;
+}
+
+.footer-area.footer-padding{
+    color: var(--color-212529);
+    font-size: 16px;
+    background-color: var(--color-1d2547);
+    padding: 80px 10px 0px;   
+}
+.single-footer-caption{
+    font-family: "poppins",sans-serif;
+    margin: 0 0 30px;
+}
+.footer-logo.mb-35{
+    color: var(--color-212529);
+    font-size: 16px;
+    font-family: "Poppins",sans-serif;
+    margin: 0px 0px 35px;
+}
+p{
+    color:var(--color-c2c5db);
+    font-size: 14px;
+    font-family:"Poppins",sans-serif;
+    margin: 0px 0px 50px;
+    padding: 0px 52px 0px 0px;
+    filter: contrast(8.73);
+}
+.footer-social{
+    color: var(--color-212529);
+    font-size: 16px;
+    font-family: "Poppins",sans-serif;
+}
+.footer-social a{
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    font-size: 14px;
+    display: inline-block;
+    text-align: center;
+    margin-right: 8px;
+    border: 1px solid white;
+    padding-top: 9px;
+}
+.footer-social :hover {
+    background-color: orangered;
+    color: white;
+}
+.footer-tittle {
+    font-size: 16px;
+    color: white;
+    font-family: "Poppins",sans-serif;
+}
+.footer-area .footer-tittle h4 {
+    color: white;
+    font-size: 17px;
+    margin-bottom: 40px;
+    font-weight: 500;
+    font-family: "Poppins",sans-serif;
+}
+li{
+    list-style: none;
+}
+.footer-area .footer-tittle ul li a {
+    color: #C2C5DB;
+    font-weight: 300;
+    font-size: 14px;
+    text-decoration: none;
+}
+.footer-area .footer-tittle ul li a:hover {
+    color: orangered;
+    text-decoration: underline transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+

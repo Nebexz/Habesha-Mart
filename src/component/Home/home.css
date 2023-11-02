@@ -1,0 +1,19 @@
+.herosection{
+    position: relative;
+}
+.herosection2{
+    position: absolute;
+    left: 80px;
+    top: 300px;
+}
+.Header1{
+    font-family: "poppins",sans-serif;
+    font-size: 5rem;
+    color: #FD8F5F;
+    font-weight:800;
+}
+.paragraph{
+    font-family: "poppins",sans-serif;
+    font-size: 2rem;
+    color: black;
+}
